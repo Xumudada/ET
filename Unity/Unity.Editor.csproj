@@ -80,6 +80,13 @@
     <Compile Include="Assets\Editor\BuildEditor\BuildHotfixEditor.cs" />
     <Compile Include="Assets\Editor\BuildEditor\BuildIOSEditor.cs" />
     <Compile Include="Assets\Editor\ExcelExporterEditor\ExcelExporterEditor.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\EditorToolSet.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\PackagesWindow.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\StageCameraEditor.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\UIConfigEditor.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\UIContentScalerEditor.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\UIPainterEditor.cs" />
+    <Compile Include="Assets\Editor\FairyGUIEditor\UIPanelEditor.cs" />
     <Compile Include="Assets\Editor\GlobalConfigEditor\GlobalConfigEditor.cs" />
     <Compile Include="Assets\Editor\Helper\EditorResHelper.cs" />
     <Compile Include="Assets\Editor\Helper\MongoHelper.cs" />
